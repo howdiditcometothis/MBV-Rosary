@@ -87,6 +87,13 @@ var master = {
         4: "The Fourth Glorious Mystery: The Assumption (Devotion to Mary)",
         5: "The Fifth Glorious Mystery: The Coronation of the B.V.M. (Eternal Happiness)"
     },
+    luminous: {
+        1: "The First Luminous Mystery: The Baptism of Our Lord (New life)",
+        2: "The Second Luminous Mystery: The Wedding Feast of Cana (Service)",
+        3: "The Third Luminous Mystery: The Proclamation of the Kingdom of God (Trust in God)",
+        4: "The Fourth Luminous Mystery: The Transfiguration of Our Lord (Transfiguration)",
+        5: "The Fifth Luminous Mystery: The Institution of the Eucharist (Adoration)"
+    },
     montfort: {
         introduction: "Introductory Prayer (St. Louis of Montfort)<br><hr class=\"inner-hr\"><span>I unite with all the saints in heaven, with all the just on earth, and with all the faithful here present. I unite with you, my Jesus, in order to praise your holy Mother worthily and to praise you in her and through her. I renounce all distractions which may arise during this Rosary. I desire to say it with attention and devotion as if it were the last of my life.<br><br> We offer you, Lord Jesus, this Creed in honor of all the mysteries of our faith, the Our Father and three Hail Marys in honor of the unity of your being and the Trinity of your persons. We ask of you a lively faith, a firm hope and an ardent charity. Amen.</span>",
         conclusion: "Concluding Prayer (St. Louis of Montfort)<br><hr class=\"inner-hr\"><span>Hail Mary, beloved Daughter of the Eternal Father, admirable Mother of the Son, Faithful Spouse of the Holy Spirit, August Temple of the most Holy Trinity! Hail, Sovereign princess, to whom all owe subjection in Heaven and on earth! Hail, sure Refuge of sinners, Our Lady of Mercy, who hast never refused any request. All sinful though I am, I cast myself at thy feet and beseech thee to obtain from Jesus, thy Beloved Son, contrition and pardon for all my sins, as well as the gift of divine wisdom. I consecrate myself entirely to thee with all that I have. I choose thee today for my Mother and Mistress. Treat me, then, as the least of thy children and the most obedient of thy servants. Listen, my princess, listen to the sighs of a heart that desires to love and serve thee faithfully. Let it never be said that of all those who have had recourse to thee, I was the first to be abandoned. O my hope, O my life, O my faithful and Immaculate Virgin Mary, defend me, nourish me, hear me, teach me and save me. Amen.</span>",
@@ -138,6 +145,22 @@ var master = {
                 3: "May the grace of the Mystery of Pentecost come down into our souls. Amen.",
                 4: "May the grace of the Mystery of the Assumption come down into our souls. Amen.",
                 5: "May the grace of the Mystery of the Coronation of the Blessed Virgin come down into our souls. Amen."
+            }
+        },
+        luminous:{
+            opening:{
+                1: " decade in honor of Thy Baptism in the Jordan, and we ask of Thee, through this Mystery and through the intercession of Thy holy Mother, to shed the Gifts of the Holy Spirit on all mankind, transform our hearts and renew the face of the Earth. Amen.",
+                2: " decade in honor of Thy self-revelation at Cana and the intervention of Mary, and we ask of Thee, through this Mystery and through her intercession, to increase and strengthen in us the spirit of solidarity, friendship, and love. Amen.",
+                3: " decade in honor of Thy proclamation of the kingdom of God, and we ask of Thee, through this Mystery and through the intercession of Thy holy Mother, to engrave Thy Laws in our hearts and give us the grace of a sincere and firm conversion. Amen.",
+                4: " decade in honor of Thy Transfiguration in Mount Tabor, and we ask of Thee, through this Mystery and through the intercession of Thy holy Mother, to give us the grace of holiness, modesty, simplicity, and honesty. Amen.",
+                5: " decade in honor of Thy Institution of The Most Blessed Sacrament at the Last Supper, and we ask of Thee, through this Mystery and through the intercession of Thy holy Mother, to deepen our devotion to Thy Body and Blood, Soul and Divinity present in the Eucharist, and the grace to offer reparations in atonement for our sins and those of the whole world. Amen."
+            },
+            closing:{
+                1: "May the grace of the Mystery of the Baptism of Our Lord come down into our souls. Amen.",
+                2: "May the grace of the Mystery of the wedding feast of Cana come down into our souls. Amen.",
+                3: "May the grace of the Mystery of the proclamation of the Kingdom of God come down into our souls. Amen.",
+                4: "May the grace of the Mystery of the Transfiguration of Our Lord come down into our souls. Amen.",
+                5: "May the grace of the Mystery of the Institution of the Eucharist come down into our souls. Amen."
             }
         }
     }
