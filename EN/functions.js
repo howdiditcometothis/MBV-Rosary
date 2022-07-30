@@ -127,6 +127,10 @@ function fMystery () {
                     document.getElementById("check-glorious").checked = true
                     fillMystery(aMysteries[i], urlp["version"])
                     break;
+		case "luminous":
+                    document.getElementById("check-luminous").checked = true
+                    fillMystery(aMysteries[i], urlp["version"])
+                    break;
                 default :
                     break;
             }
