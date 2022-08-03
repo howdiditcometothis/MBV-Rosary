@@ -410,7 +410,7 @@ var DRA = {
             5:  "&ldquo;Our Lord washes the feet of His disciples.&rdquo; (Jn. 13:5-6)",
             6:  "&ldquo;Jesus took the bread, broke it, and gave it to His disciples, saying \“This is My Body.\”&rdquo; (Lk. 22:19)",
             7:  "&ldquo;In a similar way, He took the chalice and said, \“This is My Blood.\”&rdquo; (Lk. 22:20)",
-            8:  "&ldquo;“Amen, amen, I say unto you: Except that you eat of the flesh of the Son of Man, and drink His blood, you shall not have life in you.”&rdquo; (Jn. 6:53)",
+            8:  "&ldquo;Amen, amen, I say unto you: Except that you eat of the flesh of the Son of Man, and drink His blood, you shall not have life in you.&rdquo; (Jn. 6:53)",
             9:  "&ldquo;For the chalice and bread is a communion in the blood and body of the Lord.&rdquo; (1 Cor. 10:16)",
             10: "&ldquo;When we eat this bread, and drink this cup, we proclaim His death, until He comes.&rdquo; (1 Cor. 11:26)"
         }
