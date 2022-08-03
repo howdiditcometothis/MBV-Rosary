@@ -541,6 +541,68 @@ var focus = {
             9:  "Mary pleads our cause as a most powerful Queen and a most merciful and loving Mother.",
             10: "A great sign appeared in heaven; a woman clothed with the sun, the moon under her feet, and on her head a crown of twelve stars."
         }
+    },
+    luminous: {
+        1: {
+            1: "John is baptizing in the Jordan proclaiming a baptism of repentance.",
+            2: '"I am the voice of one crying in the desert, make straight the way of the Lord.',
+            3: '"One mightier than I is coming after me.”',
+            4: '“I have baptized you with water, He will baptize you with the Holy Spirit.”',
+            5: "Seeing Jesus, John exclaims: “Behold the Lamb of God.”,
+            6: "Against protests of his unworthiness, John baptizes Jesus in the Jordan.,
+            7: "After Jesus’ baptism a voice from Heaven: \“This is my beloved Son in whom I am well pleased.\”",
+            8: "The Spirit descends upon Jesus in the form of a dove.,
+            9: "In this heavenly manifestation is instituted the sacrament of baptism.",
+            10: "The divine Trinity is manifested: the voice of the Father is heard as the Spirit descends upon the Son."
+        },
+        2: {
+            1: 'Jesus, His Mother and disciples were invited to a wedding in Cana.',
+            2: 'During the wedding feast the wine ran short.',
+            3: 'Mary turned to Jesus: “They have no wine.”',
+            4: 'Jesus replied: “What would you have Me do? My hour has not yet come.”',
+            5: 'Mary said to the waiters: “Do whatever He tells you.”',
+            6: 'There were six stone water jars, each holding fifteen to twenty gallons.',
+            7: 'Jesus bids the waiters to fill the jars with water, and then draw some out and take it to the chief steward.',
+            8: 'The chief steward said to the groom: “Every man serves the good wine first… but you have saved the good wine until now.”',
+            9: 'At Mary’s request, Jesus worked His first miracle.',
+            10: 'By His presence, Christian marriage was raised to the dignity of a Sacrament.'
+        },
+        3: {
+            1: '“Repent, for the kingdom of God is at hand.”',
+            2: '“My kingdom is not of this world.”',
+            3: '“Unless a man be born again of water and the Spirit, he cannot enter the kingdom of heaven.”',
+            4: '“Whoever does not accept the kingdom of God as a little child will not enter into it.”',
+            5: '“I have come to call sinners, not the just.”',
+            6: '“Love your enemies, pray for those who persecute you.”',
+            7: '“Blessed are the poor in spirit, for theirs is the kingdom of heaven.”',
+            8: '“Blessed are they who hunger and thirst for justice, for they shall be satisfied.”',
+            9: '“Blessed are they who suffer persecution for justice’ sake, for theirs is the kingdom of heaven.”',
+            10: '“You are Peter, and upon this rock I will build My church… I will give you the keys of the kingdom of heaven.”'
+        },
+        4: {
+            1: 'Jesus took Peter, James and John up a high mountain to pray.',
+            2: 'Jesus was transfigured before them.',
+            3: '“His face became as dazzling as the sun, his clothes as radiant as light.”',
+            4: 'This was to fortify their faith to withstand the coming tragedy of the Passion.',
+            5: 'Jesus foresaw the ‘scandal of the cross,’ and prepared them for it by this manifestation of His glory.',
+            6: 'Moses and Elias (representing the Law and the prophets of the Old Testament) were conversing with Jesus about His Passion.',
+            7: '“Do not think I have come to destroy the Law or the Prophets… but to fulfill them.”',
+            8: 'From a cloud came a voice: “This is my beloved Son, listen to Him.”',
+            9: 'Jesus admonishes them not to tell the vision to anyone until the Son of Man rises from the dead.',
+            10: 'We too will behold the transfigured Jesus on the Last Day.'
+        },
+        5: {
+            1: 'I have eagerly desired to eat this Passover with you before I suffer.',
+            2: 'Jesus took bread, blessed it: “Take and eat, this is My Body.”',
+            3: 'Taking the wine: “This cup is the new covenant in my Blood, shed for you.”',
+            4: 'At that eucharistic meal, Jesus celebrated the first Mass.',
+            5: 'At every Mass the sacrifice of Calvary is made present.',
+            6: 'At the Last Supper Jesus instituted the sacrament of Holy Orders to perpetuate this sacrifice.',
+            7: '“Whoever eats my flesh and drinks my blood remains in me and I in him.”',
+            8: 'The Eucharist is a sacrifice inasmuch as it is offered up, and a sacrament inasmuch as it is received.',
+            9: 'In the Mass we offer ourselves to God, and God gives himself to us.',
+            10: 'The Mass will be fruitful in the measure of our surrender to the Father.'
+        }
     }
 }
 
