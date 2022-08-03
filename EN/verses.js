@@ -352,7 +352,70 @@ var DRA = {
             9:  "&ldquo;And she cried out with a loud voice, and said: Blessed art thou among women, and blessed is the fruit of thy womb.&rdquo; (Lk. 1:42)",
             10: "&ldquo;He shall be great, and shall be called the Son of the most High; and the Lord God shall give unto him the throne of David his father; and he shall reign in the house of Jacob for ever.&rdquo; (Lk. 1:32)"
         }
+    };
+    luminous: {
+        1: {
+            1:  "&ldquo;A voice cries out in the wilderness.&rdquo; (Mk. 1:3)",
+            2:  "&ldquo;John the Baptist preaches repentance.&rdquo; (Mt. 3:1-2)",
+            3:  "&ldquo;John proclaims that One is coming 'the thong of whose sandals I am not worthy to unloose.'&rdquo; (Mk. 1:7)",
+            4:  "&ldquo;Jesus approaches John to be baptized.&rdquo; (Mt. 3:13)",
+            5:  "&ldquo;John protests that Jesus should be the one baptizing him instead.&rdquo; (Mt. 3:14)",
+            6:  "&ldquo;Jesus answers that it must be so for now.&rdquo; (Mt. 3:15)",
+            7:  "&ldquo;The heavens open; the Spirit descends.&rdquo; (Mt. 3:16)",
+            8:  "&ldquo;A voice from heaven says, \“This is my beloved Son, in whom I am well pleased.\”&rdquo; (Mt. 3:17)",
+            9:  "&ldquo;There is One Lord, One Faith, One Baptism.&rdquo; (Eph. 4:5)",
+            10: "&ldquo;We were baptized into His death in order to be raised to new life in Him.&rdquo; (Rm. 6:4)"
+        },
+        2: {
+            1:  "&ldquo;There was a marriage in Cana in Galilee.&rdquo; (Jn. 2:1)",
+            2:  "&ldquo;The wine runs out. Mary intercedes.&rdquo; (Jn. 2:3)",
+            3:  "&ldquo;Jesus replies that His hour has not yet come.&rdquo; (Jn. 2:4)",
+            4:  "&ldquo;Mary tells the servants to do whatever He asks.&rdquo; (Jn. 2:5)",
+            5:  "&ldquo;Jesus asks the jars of water be filled.&rdquo; (Jn. 2:6)",
+            6:  "&ldquo;The steward marvels that the best wine has been served last.&rdquo; (Jn. 2:10)",
+            7:  "&ldquo;This was the first of His signs.&rdquo; (Jn. 2:11)",
+            8:  "&ldquo;\“I will espouse thee to Me in faith.\”&rdquo; (Hos. 2:20)",
+            9:  "&ldquo;\“Husbands, love your wives, as Christ also loved the Church\”&rdquo; (Eph. 5:25)",
+            10: "&ldquo;\“Blessed are they that are called to the marriage supper of the Lamb.\”&rdquo; (Rev. 19:9)"
+        },
+        3: {
+            1:  "&ldquo;Jesus proclaims, \“The Kingdom of God is at hand: repent, and believe the Gospel.\”&rdquo; (Mk. 1:15)",
+            2:  "&ldquo;Jesus preaches the Kingdom in Galilee.&rdquo; (Mt. 4:23)",
+            3:  "&ldquo;Jesus teaches the Beatitudes to the crowds.&rdquo; (Mt. 5:1-12)",
+            4:  "&ldquo;Jesus commands His believers to be salt of the earth and the light of the world.&rdquo; (Mt. 5:13-16)",
+            5:  "&ldquo;It is not enough to say “Lord, Lord,” but one must do the will of the Father.&rdquo; (Mt. 7:21-23)",
+            6:  "&ldquo;Jesus sends His disciples to preach and say, \“The kingdom of heaven is at hand.\”&rdquo; (Mt. 10:7)",
+            7:  "&ldquo;\“To other cities also I must preach the kingdom of God: for therefore am I sent.\”&rdquo; (Lk. 4:43)",
+            8:  "&ldquo;If we do not receive the kingdom of God like a little child, neither shall we enter it.&rdquo; (Mk. 10:15)",
+            9:  "&ldquo;Jesus sends the disciples out to preach the kingdom and heal the sick.&rdquo; (Lk. 9:2)",
+            10: "&ldquo;The Apostles preach the Risen Christ.&rdquo; (Acts 2:32)"
+        },
+        4: {
+            1:  "&ldquo;Jesus takes Peter, James, and John up to a high mountain by themselves.&rdquo; (Mt. 17:1)",
+            2:  "&ldquo;He is transfigured before them; His face shines like the sun, and His garments shine like light.&rdquo; (Mt. 17:2)",
+            3:  "&ldquo;Jesus teaches the Beatitudes to the crowds.&rdquo; (Mt. 5:1-12)",
+            4:  "&ldquo;Jesus commands His believers to be salt of the earth and the light of the world.&rdquo; (Mt. 5:13-16)",
+            5:  "&ldquo;It is not enough to say “Lord, Lord,” but one must do the will of the Father. &rdquo; (Mt. 7:21-23)",
+            6:  "&ldquo;Jesus sends His disciples to preach and say, \“The kingdom of heaven is at hand.\”&rdquo; (Mt. 10:7)",
+            7:  "&ldquo;To other cities also I must preach the kingdom of God: for therefore am I sent.&rdquo; (Lk. 4:43)",
+            8:  "&ldquo;If we do not receive the kingdom of God like a little child, neither shall we enter it.&rdquo; (Mk. 10:15)",
+            9:  "&ldquo;Jesus sends the disciples out to preach the kingdom and heal the sick.&rdquo; (Lk. 9:2)",
+            10: "&ldquo;The Apostles preach the Risen Christ.&rdquo; (Acts 2:32)"
+        },
+        5: {
+            1:  "&ldquo;The Feast of Unleavened Bread, also called the Passover, drew near.&rdquo; (Lk. 22:1)",
+            2:  "&ldquo;Jesus sends His disciples to make preparations for the Passover.&rdquo; (Mt. 26:17-18)",
+            3:  "&ldquo;When evening arrives, Jesus reclines at table with them.&rdquo; (Mt. 26:19-20)",
+            4:  "&ldquo;Jesus tells the disciples that He will not share in the Passover again until all is fulfilled.&rdquo; (Lk. 22:16)",
+            5:  "&ldquo;Our Lord washes the feet of His disciples.&rdquo; (Jn. 13:5-6)",
+            6:  "&ldquo;Jesus took the bread, broke it, and gave it to His disciples, saying \“This is My Body.\”&rdquo; (Lk. 22:19)",
+            7:  "&ldquo;In a similar way, He took the chalice and said, \“This is My Blood.\”&rdquo; (Lk. 22:20)",
+            8:  "&ldquo;“Amen, amen, I say unto you: Except that you eat of the flesh of the Son of Man, and drink His blood, you shall not have life in you.”&rdquo; (Jn. 6:53)",
+            9:  "&ldquo;For the chalice and bread is a communion in the blood and body of the Lord.&rdquo; (1 Cor. 10:16)",
+            10: "&ldquo;When we eat this bread, and drink this cup, we proclaim His death, until He comes.&rdquo; (1 Cor. 11:26)"
+        }
     }
+}
 }
 
 var focus = {
