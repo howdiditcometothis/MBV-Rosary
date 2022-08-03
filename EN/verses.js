@@ -416,7 +416,6 @@ var DRA = {
         }
     }
 }
-}
 
 var focus = {
     joyful: {
