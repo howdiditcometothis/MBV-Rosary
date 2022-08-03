@@ -548,12 +548,12 @@ var focus = {
             2: '"I am the voice of one crying in the desert, make straight the way of the Lord.',
             3: '"One mightier than I is coming after me.”',
             4: '“I have baptized you with water, He will baptize you with the Holy Spirit.”',
-            5: "Seeing Jesus, John exclaims: “Behold the Lamb of God.”,
-            6: "Against protests of his unworthiness, John baptizes Jesus in the Jordan.,
-            7: "After Jesus’ baptism a voice from Heaven: \“This is my beloved Son in whom I am well pleased.\”",
-            8: "The Spirit descends upon Jesus in the form of a dove.,
-            9: "In this heavenly manifestation is instituted the sacrament of baptism.",
-            10: "The divine Trinity is manifested: the voice of the Father is heard as the Spirit descends upon the Son."
+            5: 'Seeing Jesus, John exclaims: “Behold the Lamb of God.”',
+            6: 'Against protests of his unworthiness, John baptizes Jesus in the Jordan.',
+            7: 'After Jesus’ baptism a voice from Heaven: \“This is my beloved Son in whom I am well pleased.\”',
+            8: 'The Spirit descends upon Jesus in the form of a dove.',
+            9: 'In this heavenly manifestation is instituted the sacrament of baptism.',
+            10: 'The divine Trinity is manifested: the voice of the Father is heard as the Spirit descends upon the Son.'
         },
         2: {
             1: 'Jesus, His Mother and disciples were invited to a wedding in Cana.',
