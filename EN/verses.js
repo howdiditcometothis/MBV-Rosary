@@ -352,7 +352,7 @@ var DRA = {
             9:  "&ldquo;And she cried out with a loud voice, and said: Blessed art thou among women, and blessed is the fruit of thy womb.&rdquo; (Lk. 1:42)",
             10: "&ldquo;He shall be great, and shall be called the Son of the most High; and the Lord God shall give unto him the throne of David his father; and he shall reign in the house of Jacob for ever.&rdquo; (Lk. 1:32)"
         }
-    };
+    },
     luminous: {
         1: {
             1:  "&ldquo;A voice cries out in the wilderness.&rdquo; (Mk. 1:3)",
